@@ -21,7 +21,8 @@ In this task, I used the component "DC Motor with Encoder" in tinkercad.
    
 ### Encoder Circuit Wiring
 The "DC Motor with Encoder" has 6 wires 2 for the motor and 4 for the encoder. The two connection for the motor are (motorPositive and motorNegative) its connected to the motor driver output pins similar to what I did in task 2. The 4 connections for the encoder are (Vcc , ground , channel A , and channel B) channel A and channel B are connected to the Arduino interrupt pins 2 and 3 respectively.<br><br>
-<kbd> **Figure 2** <br><br>*Encoder Circuit Wiring*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Encoder-with-DC-Motor/assets/106926557/84696462-c6aa-4fd5-862d-67e4461f6cf0) </kbd></kbd>
+<kbd> **Figure 2** <br><br>*Encoder Circuit Wiring*<br><br> <kbd> ![image](https://github.com/Rawnaa-19/Encoder-with-DC-Motor/assets/106926557/c346d05e-5711-4370-b099-cb7d4e232013)
+</kbd></kbd>
 
 
 ## References
